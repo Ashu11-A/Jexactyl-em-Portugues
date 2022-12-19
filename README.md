@@ -1,3 +1,5 @@
+## ⚠️⚠️⚠️ Repositório transferência para [este repo](https://github.com/Jexactyl-Brasil/Jexactyl-Brasil) https://github.com/Jexactyl-Brasil/Jexactyl-Brasil
+
 [![Logo Image](https://cdn.discordapp.com/attachments/1012411945141424218/1012430446556090468/JexactylBannerBasic.jpg)](https://jexactylbrasil.ml)
 
 ![Tests](https://img.shields.io/github/workflow/status/Ashu11-A/Jexactyl_PT-BR/Build)
